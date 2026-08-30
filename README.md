@@ -15,7 +15,7 @@ Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql,git,github,vscode&perline=7" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql,github,vscode&perline=7" />
 
 </p>
 
@@ -40,6 +40,8 @@ GitHub Streak
 <img src="https://streak-stats.demolab.com?user=Habibah-04&theme=tokyonight&hide_border=true" />
 
 </p>
+
+---
 
 Connect With Me
 
