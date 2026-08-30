@@ -1,6 +1,6 @@
-✦ <h2>About Me</h2>
+<h3>✦ About Me</h3>
 
-Hi, I'm Habibah Qamar
+<h3>Hi, I'm Habibah Qamar</h3>
 
 Developer | Problem Solver | Lifelong Learner
 
