@@ -1,4 +1,4 @@
-✦ <b>About Me</b>
+✦ <h2>About Me</h2>
 
 Hi, I'm Habibah Qamar
 
