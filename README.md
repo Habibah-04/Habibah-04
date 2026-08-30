@@ -41,4 +41,4 @@ I'm a passionate developer who loves building useful, scalable and beautiful app
 
 ---
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Habibah-04&label=Profile%20Views&color=ff69b4&style=flat-square"/> </p> <p align="center"> ✦ <i>Thanks for visiting my profile!</i> ✦ </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Habibah-04&label=Profile%20Views&color=ff69b4&style=flat-square"/> </p> <p align="center"> ✦ <b>Thanks for visiting my profile!</b> ✦ </p>
