@@ -33,7 +33,7 @@ I'm a passionate developer who loves building useful, scalable and beautiful app
 
 ---
 
-<h3 align="center">✦ Total Public Repositories</h3>
+<h3>✦ Total Public Repositories</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FHabibah-04&query=%24.public_repos&label=Public%20Repositories&color=blue&style=for-the-badge&logo=github"/>
