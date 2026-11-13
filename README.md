@@ -33,6 +33,14 @@ I'm a passionate developer who loves building useful, scalable and beautiful app
 
 ---
 
+<h3>✦ Contribution Activity</h3>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Habibah-04&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
 <h3>✦ Total Public Repositories</h3>
 
 <p align="center">
