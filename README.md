@@ -23,6 +23,39 @@ I'm a passionate developer who loves building useful, scalable and beautiful app
 
 ---
 
+<h3>✦ GitHub Statistics</h3>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Habibah-04&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Habibah-04&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<h3>✦ Most Used Languages</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Habibah-04&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+---
+
+<h3>✦ Contribution Activity</h3>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Habibah-04&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+<h3>✦ GitHub Trophies</h3>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Habibah-04&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
 <h3>✦ GitHub Streak</h3>
 
 <p align="center">
